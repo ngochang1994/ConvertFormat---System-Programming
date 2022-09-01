@@ -1,10 +1,5 @@
 /*
- * Student: Thi Tran
- * RedID: 825223653
- * Class Account: cssc0434
- * CS 530 - Systems Programming, Spring 2022
- * Prof: G. Leonard
- * Project #1
+ * Thi Tran |   ttran9844@sdsu.edu
  */
 
 #include <stdio.h>
